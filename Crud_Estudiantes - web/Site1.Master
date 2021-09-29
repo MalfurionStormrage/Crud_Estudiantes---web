@@ -1,0 +1,49 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="Crud_Estudiantes___web.Site1" %>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head runat="server">
+        <!-- metas -->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="title" content="Crud_Estudiantes - web">
+        <meta name="description" content="Gestión de estudiantes - organización clínica general del norte.">
+        <meta name="keywords" content="Gestion , estudiantes , organizacion , clinica , crud , apartados.">
+        <meta name="robots" content="index, follow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="Spanish">
+        <meta name="author" content="Abraham">
+        <title> Crud_Estudiantes - web </title>
+        <!-- bootstrap -->
+        <link href="~/Bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <!-- CSS -->
+        <link href="Styles/css/Btn_Disabled.css" rel="stylesheet" type="text/css" />
+        <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+        <link href="~/Styles/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="~/Styles/css/stylesoc.css" rel="stylesheet" type="text/css" />
+        <!-- Font Awesome CSS -->
+        <link href="~/Styles/css/font-awesome.css" rel="stylesheet" type="text/css" />
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->   
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+    <body>
+        <div runat="server" id="padre_ruta" class="bg-light">
+             <ol id="migajas" class="breadcrumb p-1">
+                <li>
+                   Crud_Estudiantes - V 1.0.0 
+                </li>
+            </ol>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        </asp:ContentPlaceHolder>
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    </body>
+</html>

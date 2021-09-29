@@ -1,0 +1,73 @@
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\Crud_Estudiantes - web.dll.config
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\Crud_Estudiantes - web.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\Crud_Estudiantes - web.pdb
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\Crud_Estudiantes - web.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Data.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Printing.v18.1.Core.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.RichEdit.v18.1.Core.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.RichEdit.v18.1.Export.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Office.v18.1.Core.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Pdf.v18.1.Core.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Images.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Data.v18.1.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.RichEdit.v18.1.Core.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Printing.v18.1.Core.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.v18.1.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Office.v18.1.Core.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Pdf.v18.1.Core.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.Data.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.Data.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.Data.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.Data.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.Web.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.Web.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.Web.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.Web.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes___web.Resources.resources
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes - web.vbproj.GenerateResource.cache
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes - web.vbproj.CoreCompileInputs.cache
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes - web.vbproj.CopyComplete
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes - web.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes - web.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes - web.pdb
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes - web.dll.licenses
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.Resources.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.DemoData.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.CodeParser.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.SpellChecker.v18.1.Core.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\DevExpress.SpellChecker.v18.1.Core.xml
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+D:\archivos desarrollo7\Desktop\Crud_Estudiantes - web\Crud_Estudiantes - web\obj\Debug\Crud_Estudiantes - web.vbproj.AssemblyReference.cache

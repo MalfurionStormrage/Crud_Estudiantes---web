@@ -1,0 +1,237 @@
+﻿
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.page
+{
+    width: 1260px;
+    background-color: #fff;
+    margin: 20px auto 0px auto;
+    border: 1px solid #496077;
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #4b6c9e;
+    width: 100%;
+}
+
+.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+.main
+{
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer
+{
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background-color:#3a4f63;
+    width:100%;
+}
+
+div.menu
+{
+    padding: 4px 0px 4px 8px;
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    background-color: #465c71;
+    border: 1px #4e667d solid;
+    color: #dde4ec;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+div.menu ul li a:hover
+{
+    background-color: #bfcbd6;
+    color: #465c71;
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #465c71;
+    color: #cfdbe6;
+    text-decoration: none;
+}
+
+
+/* ESTILOS AGREGADOS POR DESARROLLO  
+----------------------------------------------------------*/
+
+.divTable
+{
+            width: 100%;
+            display:block;
+            padding-top:8px;
+            padding-bottom:8px;
+            padding-right:8px;
+            padding-left:8px; 
+}
+.divRow
+{
+         width: 92%; 
+         display:block;
+         padding-bottom:5px;
+         height: 60px;
+}
+.divColumn
+{
+         float: left;
+         width: 99%;
+         display:block;
+	height: 17px;
+}
+
+.rbl
+{
+   margin-left: 10px;
+   margin-right: 5px;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   width:100%
+}
+
+.rblsino
+{
+   width:80%;
+}
+
+
+.fuenteSubtitulo
+{
+    font-size:small;
+}
+
+.letraPequeña
+{
+    font-size:x-small;
+}    
+
+.fuenteSubtituloVerde
+{
+    font-weight:bold;
+    font-size:small;
+    color:#008000;
+}
+ 
+
+.mydiv { background-color:yellow; display:none;}
+
+.hr
+{
+	border: 0.5px solid #C0C0C0;
+	height: 1px;
+	background-color: #C0C0C0;
+}
+
+.tinput
+{
+	width: 100%;
+}
+	
+
+.input::-moz-placeholder {
+color: #c00;
+font-weight: bold;
+}
+
+.inputCodigoEmergente
+{
+    width:20%;
+    display:inline;
+}
+.inputButtonEmergente
+{
+    width:11%;
+    display:inline;
+}
+
+.inputDescripcionEmergente
+{
+    width:60%;
+    display:inline;
+}  
+
+.inputDescripcionIvalid
+{
+    width:60%;
+    display:inline;
+	border: 1px #FF0000 solid !important;
+}  
+
+
+
+textarea.expandable {
+  height:80px;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+textarea.expandable:hover, textarea.expandable:focus {
+  height:calc(100% - 90px);      
+  -webkit-transition: all 0.8s ease-in-out;
+}
+      
+.panel-300:hover, .panel-300 {
+  height:300px;    
+}
+
+textarea.expandable + textarea.expandable:hover, textarea.expandable + textarea.expandable:focus {
+  height:calc(100% - 90px)	
+}
+
+ .rad {
+    border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd; 
+    width: 100%;
+    border-radius: 25px;
+}
