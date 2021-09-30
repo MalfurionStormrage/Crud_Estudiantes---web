@@ -9,6 +9,7 @@
         const consultar = () => table_estudiante.PerformCallback("consultar");
         const guardar = () => table_estudiante.PerformCallback("guardar");
         const limpiar = () => table_estudiante.PerformCallback("limpiar");
+
         //end callback de gridview table_estudiante
         function End_table_estudiante(s, e) {
             const msg = table_estudiante.cpMsg;
@@ -103,20 +104,20 @@
                                 <Image IconID="zoom_zoom_16x16" Height="16px" Width="16px">
                                 </Image>
                             </dx:ASPxButton>
-                            <dx:ASPxButton ID="btn_guardar" AutoPostBack="false" runat="server" Text="Guardar" Theme="MaterialCompact" CssClass="shadow" Style="margin-top: 1rem;" ClientInstanceName="btn_guardar" Height="40px" Width="120px" Font-Bold="true" Font-Size="Small">
+                            <dx:ASPxButton ID="btn_guardar" AutoPostBack="false" runat="server" Text="Guardar" Theme="MaterialCompact" CssClass="shadow" Style="margin-top: 1rem;" ClientEnabled="false" ClientInstanceName="btn_guardar" Height="40px" Width="120px" Font-Bold="true" Font-Size="Small">
                                 <ClientSideEvents Click="function(){guardar();}" />
                                 <Image IconID="save_save_16x16" Height="16px" Width="16px">
                                 </Image>
                             </dx:ASPxButton>
-                            <dx:ASPxButton ID="btn_limpiar" runat="server" AutoPostBack="false" Text="Limpiar" Theme="MaterialCompact" CssClass="shadow" Style="margin-top: 1rem;" ClientInstanceName="btn_limpiar" Height="40px" Width="120px" Font-Bold="true" Font-Size="Small">
+                            <dx:ASPxButton ID="btn_limpiar" AutoPostBack="false" runat="server"  Text="Limpiar" Theme="MaterialCompact" CssClass="shadow" Style="margin-top: 1rem;" ClientInstanceName="btn_limpiar" Height="40px" Width="120px" Font-Bold="true" Font-Size="Small">
                                 <ClientSideEvents Click="function(){limpiar();}" />
                                 <Image IconID="actions_clear_16x16" Height="16px" Width="16px">
                                 </Image>
                             </dx:ASPxButton>
-                            <dx:ASPxButton ID="btn_exportar" runat="server" Text="Exportar" Theme="MaterialCompact" CssClass="shadow" Style="margin-top: 1rem;" ClientInstanceName="btn_exportar" Height="40px" Width="120px" Font-Bold="true" Font-Size="Small">
+                            <dx:ASPxButton ID="btn_exportar" runat="server" Text="Exportar" Theme="MaterialCompact" CssClass="shadow" Style="margin-top: 1rem;" ClientEnabled="false" ClientInstanceName="btn_exportar" Height="40px" Width="120px" Font-Bold="true" Font-Size="Small">
                                 <Image IconID="mail_sendxls_16x16" Height="16px" Width="16px"></Image>
                             </dx:ASPxButton>
-                            <dx:ASPxButton ID="btn_imprimir" runat="server" Text="Imprimir" Theme="MaterialCompact" CssClass="shadow" Style="margin-top: 1rem;" ClientInstanceName="btn_imprimir" Height="40px" Width="120px" Font-Bold="true" Font-Size="Small">
+                            <dx:ASPxButton ID="btn_imprimir" runat="server" Text="Imprimir" Theme="MaterialCompact" CssClass="shadow" Style="margin-top: 1rem;" ClientEnabled="false" ClientInstanceName="btn_imprimir" Height="40px" Width="120px" Font-Bold="true" Font-Size="Small">
                                 <Image IconID="print_print_16x16" Height="16px" Width="16px"></Image>
                             </dx:ASPxButton>
                         </div>
@@ -129,9 +130,9 @@
                             <dx:PanelContent>
                                 <div class="container" style="padding: 2rem;">
                                     <div class="row">
-                                        <div class="col-sm-6">
+                                        <div class="col-sm-3">
                                             <label for="txt_iden_estudiante">Identificacion: &nbsp;</label>
-                                            <dx:ASPxTextBox ID="ASPxTextBox1" ClientInstanceName="txt_iden_estudiante" CssClass="form-control no-rad w-100" ClientIDMode="Static"
+                                            <dx:ASPxTextBox ID="txt_iden_estudiante" ClientInstanceName="txt_iden_estudiante" CssClass="form-control no-rad w-100" ClientIDMode="Static"
                                                 ReadOnly="false" onkeypress="return Validador_solo_numero(event)" BackColor="LightYellow" Font-Size="8.5pt"
                                                 NullText="Identificacion Del Estudiante" ToolTip="Identificacion Del Estudiante" runat="server" Width="100%">
                                             </dx:ASPxTextBox>

@@ -22,7 +22,9 @@ Public Class index
             End If
 
             If e.Parameters = "guardar" Then
-                MsgBox("working")
+                Dim identificacion = txt_iden_estudiante.Text
+                Dim nombre = txt_iden_estudiante.Text
+                Dim edad = txt_iden_estudiante.Text
             End If
 
             If e.Parameters = "limpiar" Then

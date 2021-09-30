@@ -68,13 +68,13 @@ Partial Public Class index
     Protected WithEvents panel_sede As Global.DevExpress.Web.ASPxRoundPanel
 
     '''<summary>
-    '''Control ASPxTextBox1.
+    '''Control txt_iden_estudiante.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents ASPxTextBox1 As Global.DevExpress.Web.ASPxTextBox
+    Protected WithEvents txt_iden_estudiante As Global.DevExpress.Web.ASPxTextBox
 
     '''<summary>
     '''Control txt_nom_estudiante.

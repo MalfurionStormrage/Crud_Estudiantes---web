@@ -103,9 +103,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Crud_Estudiantes___web.index._ASPxTextBox1">
+<member name="F:Crud_Estudiantes___web.index._txt_iden_estudiante">
 <summary>
-Control ASPxTextBox1.
+Control txt_iden_estudiante.
 </summary>
 <remarks>
 Campo generado automáticamente.
